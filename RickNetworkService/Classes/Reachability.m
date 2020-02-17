@@ -1,8 +1,8 @@
 //
 //  Reachability.m
-//  Alamofire
+//  
 //
-//  Created by Rick on 2020/2/17.
+//  Created by Rick on 2019/12/20.
 //
 
 #import <arpa/inet.h>

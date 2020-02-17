@@ -1,6 +1,6 @@
 //
 //  NetworkStatus.swift
-//  Alamofire
+//  
 //
 //  Created by Rick on 2020/2/17.
 //

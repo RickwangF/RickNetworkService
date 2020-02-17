@@ -1,6 +1,6 @@
 //
 //  NetworkDebugLog.swift
-//  AlamofireTest
+//  
 //
 //  Created by Rick on 2019/10/15.
 //  Copyright © 2019 Rick. All rights reserved.
