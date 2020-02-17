@@ -6,6 +6,5 @@ target 'RickNetworkService_Example' do
   target 'RickNetworkService_Tests' do
     inherit! :search_paths
 
-    
   end
 end

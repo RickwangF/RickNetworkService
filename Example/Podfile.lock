@@ -1,0 +1,23 @@
+PODS:
+  - Alamofire (4.9.1)
+  - RickNetworkService (0.1.0):
+    - Alamofire (~> 4.9.1)
+
+DEPENDENCIES:
+  - RickNetworkService (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+
+EXTERNAL SOURCES:
+  RickNetworkService:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  RickNetworkService: bba94b8b2a3641bdb96787bfb726caf66baa85ee
+
+PODFILE CHECKSUM: edac27a79e2a59dc105795ee734b440d9073177b
+
+COCOAPODS: 1.7.4

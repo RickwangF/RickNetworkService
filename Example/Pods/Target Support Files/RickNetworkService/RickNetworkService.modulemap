@@ -1,0 +1,6 @@
+framework module RickNetworkService {
+  umbrella header "RickNetworkService-umbrella.h"
+
+  export *
+  module * { export * }
+}

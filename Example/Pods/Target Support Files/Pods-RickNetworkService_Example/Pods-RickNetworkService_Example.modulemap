@@ -1,0 +1,6 @@
+framework module Pods_RickNetworkService_Example {
+  umbrella header "Pods-RickNetworkService_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
