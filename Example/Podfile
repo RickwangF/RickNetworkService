@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'RickNetworkService_Example' do
+  pod 'RickNetworkService', :path => '../'
+
+  target 'RickNetworkService_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
